@@ -6,9 +6,8 @@ int main(void)
 	int b;
 	a = 3;
 	b = 4;
-	if (a > b)
-		printf("a > b\n");
 
+	printf("this is test message \n");
 	printf("Hello world\n");
 	return 0;
 }
